@@ -4,9 +4,9 @@
 </a>
 </p>
 
-## About BootstrapStarter
+## About CompanyEmployeeManager
 
-LoanDocumentManagementSystem is a web application to manage the documents that are required for the loan application in any co-operative orgranizations.
+This system is a web application to manage the companies and employees.
 
 ## Built On
 - PHP 8 
@@ -19,12 +19,12 @@ LoanDocumentManagementSystem is a web application to manage the documents that a
 
 ## Installation
 
-- ```git clone https://github.com/IT-Bridge-Nepal/BroilerPlateLaravelBootstrapAuth```
+- ```git clone https://github.com/kapilsapkota/company-employee-crud```
 - Open project folder and open terminal and hit ```composer install```
 - create database and run command ```php artisan migrate --seed```
+- ```php artisan storage:link```
 - Run ```php artisan serve```
 - Launch the URL ```http://localhost:8000/```
 
 ## ENJOY!!
-Dont forget to follow and rate your teammates.
 
